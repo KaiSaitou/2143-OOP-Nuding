@@ -1,1 +1,3 @@
-# 2143-OOP-Nuding
+
+Chase Nuding
+chasenuding@gmail.com
